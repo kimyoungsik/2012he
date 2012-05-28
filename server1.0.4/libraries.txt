@@ -1,0 +1,2 @@
+0::사회.dat::/Users/headflow/Documents/DeafLib/사회.dat
+1::수학.dat::/Users/headflow/Documents/DeafLib/수학.dat
